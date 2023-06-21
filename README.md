@@ -24,5 +24,5 @@ Montserrat
 **Logo**  
 ![Logo](https://live.staticflickr.com/65535/52981241852_6e56520377_m.jpg "Logo")
 
-**Link Figma**
+**Link Figma**  
 https://www.figma.com/file/0YdEui47hyLvoxzigZXuG8/Chimango-Tattoo?type=design&node-id=0-1&mode=design&t=k9iQknwRA4NXwmHy-0
