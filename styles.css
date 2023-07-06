@@ -1,0 +1,18 @@
+@import url("https://fonts.google.com/specimen/Montserrat");
+
+*{
+    font-family: 'Montserrat';
+}
+
+:root{
+    --primary: #FDE502;
+    --secondary: #D9D9D9;
+}
+
+.banner{
+    background-color: var(--primary);
+}
+
+.articulo{
+    background-color: var(--secondary);
+}
