@@ -29,4 +29,3 @@ https://www.figma.com/file/0YdEui47hyLvoxzigZXuG8/Chimango-Tattoo?type=design&no
 
 
 
-<!-- Esto es un comentario -->
